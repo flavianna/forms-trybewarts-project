@@ -8,3 +8,7 @@ body {
   background-color: rgb(50, 167, 145);
   border: 1px solid red;
 }
+
+.trybewarts-login {
+  display: flex;
+}
