@@ -24,11 +24,11 @@ main {
   border: 1px solid black;
 }
 
-.trybewarts-header-logo{
-    height: 60px;
-    margin-left: 10px;
+.trybewarts-header-logo {
+height: 60px;
+margin-left: ;
 }
 
 #trybewarts-forms-logo {
-    height: 500px;
+  height: 500px;
 }
