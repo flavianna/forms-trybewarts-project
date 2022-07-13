@@ -1,0 +1,130 @@
+body {
+    width: 100%;
+    margin: 1e-12px;
+    background-color:#F2F2F2;
+}
+
+.header {
+    display: flex;
+    height: 80px;
+    background-color: rgb(50, 167, 145);
+    align-items: center;
+    justify-content: space-between;
+}
+
+.trybewarts-header-logo {
+    height: 60px;
+    margin-left: 10px;
+}
+
+.trybewarts-login {
+    display: flex;
+    width: 450px;
+    margin-right: 10px;
+    justify-content: space-around;
+}
+
+#trybewarts-header-title {
+    color: white;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    height: 200px;
+    flex-direction: column;
+    margin-right: center;
+}
+
+p,
+h3 {
+    display: flex;
+    margin-right: 225px;
+    font-family: sans-serif;
+}
+
+#evaluation-form {
+    display: flex;
+    width: 675px;
+    flex-direction: column;
+    margin-right: 300px;
+    
+}
+
+#family-label {
+    display: flex;
+    flex-direction: column;
+    margin-right: 855px;
+}
+
+#learn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: -80px;
+    margin-right: 150px;
+}
+
+#section-evaluation {
+    display: flex;
+    align-items: center;
+    margin-right: 465px
+}
+
+#section-textarea {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-right: 550px;
+}
+
+#trybewarts-forms-logo {
+    display: flex;
+    height: 500px;
+    position: absolute;
+    margin: 50px;
+    margin-left: 350px;
+}
+
+#check {
+    display: flex;
+    align-items: center;
+    margin-right: 630px;
+}
+
+footer {
+    width: 100%;
+    height: 30px;
+    margin: auto;
+    bottom: 0;
+    position: fixed;
+    background-color: black;
+    color: antiquewhite;
+}
+
+span {
+    display: flex;
+    height: 80px;
+    background-color: black;
+    margin-left: 40%;
+}
+
+#submit-btn {
+  font-size:11px;
+  font-family:Arial;
+  width: 100px;
+  height: 30px;
+  background-color: #4D308C;
+  color: white;
+  border-radius: 5%;
+}
+
+#button-form {
+    font-size:11px;
+    font-family:Arial;
+    width: 100px;
+    height: 30px;
+    background-color: #4D308C;
+    color: white;
+    border-radius: 10%;
+}
